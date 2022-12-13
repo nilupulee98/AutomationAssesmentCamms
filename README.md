@@ -24,7 +24,7 @@ Q1 . Please automate the following test using Selenium WebDriver.
 - TestNG
 
 # IDE
-- Eclipes
+- Eclipse
 
 # Project Execution
 - To execute this project please run the TestSuite class using TestNG
